@@ -1,0 +1,61 @@
+.nav .line {
+	position:absolute;
+	width:60px;
+	height:2px;
+	background:#000;
+	top:30px;
+	left:120px;
+}
+.case {
+	width:950px;
+	height:87px;
+}
+.case h2 {
+	width:950px;
+	height:30px;
+	background-color:#2d3237;
+	color:#f00;s
+	text-align:center;
+	line-height:30px;
+	float:left;
+}
+.cc {
+	width:437px;
+	height:10px;
+	float:left;
+	border-bottom:1px solid #000;
+}
+.case h5 {
+	width:76px;
+	height:20px;
+	float:left;
+	text-align:center;
+	line-height:20px;
+	font-size:12px;
+}
+.case .h1 {
+	width:500px;
+	text-align:right;
+}
+.case .h2 {
+	width:450px;
+	text-align:left;
+	color:#fff;
+}
+.main {
+	width:1200px;
+	height:170px;
+	text-align:center;
+}
+.main p {
+	letter-spacing:1px;
+}
+.footer {
+	width:1200px;
+	height:60px;
+	background-color:#eaeaea;
+	text-align:center;
+	font-size:14px;
+	padding: 30px 0;
+	line-height:20px;
+}
