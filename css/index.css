@@ -99,3 +99,38 @@
 	text-align:left;
 	color:#fff;
 }
+.main div {
+	width:200px;
+	height:24px;
+	float:left;
+	padding-left:20px;
+}
+.main div span {
+	line-height:24px;
+	font-size:14px;
+	color:#666666;
+}
+.main .m1 {
+	margin-left:245px;
+	width:180px;
+	background:url(../img/8.png);
+	background-repeat:no-repeat;
+}
+.main .m2 {
+	padding-left:45px;
+	width:140px;
+	background:url(../img/9.png);
+	background-repeat:no-repeat;
+}
+.main .m3 {
+	padding-left:45px;
+	width:140px;
+	background:url(../img/10.png);
+	background-repeat:no-repeat;
+}
+.main .m4 {
+	padding-left:45px;
+	width:100px;
+	background:url(../img/11.png);
+	background-repeat:no-repeat;
+}
